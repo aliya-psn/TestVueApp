@@ -11,7 +11,7 @@ import Home from './components/Home.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <Home msg="github"></Home>
+  <!-- <Home msg="github"></Home> -->
 </template>
 
 <style scoped>
